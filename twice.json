@@ -6495,6 +6495,6 @@
       "urlMp3": "https://lind96.github.io/personal/mp3/twice/demon.mp3"
     }
   ],
-  "hide_adds_by_version": [],
+  "hide_adds_by_version": [1],
   "promotion_count": 2
 }
