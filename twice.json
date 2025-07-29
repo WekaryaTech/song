@@ -6493,6 +6493,19 @@
       "popularity": 13000,
       "youtube_id": "qYmIZG8CosQ",
       "urlMp3": "https://wekaryatech.github.io/song/twice/warning.mp3"
+    },
+     {
+      "title": "Enemy",
+      "release_date": "2025-07-29",
+      "album": "-",
+      "artist": "TWICE",
+      "image": "https://i.ytimg.com/vi/_O2_J6qvVMY/sddefault.jpg",
+      "latin_lyric":null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 28000,
+      "youtube_id": "xWldBK4d2Ps",
+      "urlMp3": "https://wekaryatech.github.io/song/twice/enemy.mp3"
     }
   ],
   "hide_adds_by_version": [],
