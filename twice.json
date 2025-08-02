@@ -6508,6 +6508,6 @@
       "urlMp3": "https://wekaryatech.github.io/song/twice/enemy.mp3"
     }
   ],
-  "hide_adds_by_version": [],
+  "hide_adds_by_version": [2],
   "promotion_count": 2
 }
