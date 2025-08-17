@@ -821,6 +821,58 @@
       "popularity": 2100000,
       "youtube_id": "q9leDzlNEaY",
       "urlMp3": "https://wekaryatech.github.io/song/bts/goria.mp3"
+    },
+    {
+      "title": "Love Me Again",
+      "release_date": "2023-08-10",
+      "album": "Layover",
+      "artist": "V",
+      "image": "https://static.republika.co.id/uploads/images/inpicture_slide/v-bts-v-merilis-album-layover-pada-jumat_230908104233-815.jpeg",
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 4600000,
+      "youtube_id": "HYzyRHAHJl8",
+      "urlMp3": "https://wekaryatech.github.io/song/bts/lovem.mp3"
+    },
+    {
+      "title": "Rainy Days",
+      "release_date": "2023-08-11",
+      "album": "Layover",
+      "artist": "V",
+      "image": "https://static.republika.co.id/uploads/images/inpicture_slide/v-bts-v-merilis-album-layover-pada-jumat_230908104233-815.jpeg",
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 3200000,
+      "youtube_id": "yTsINmrAK4I",
+      "urlMp3": "https://wekaryatech.github.io/song/bts/rayi.mp3"
+    },
+    {
+      "title": "Slow Dancing",
+      "release_date": "2023-09-08",
+      "album": "Layover",
+      "artist": "V",
+      "image": "https://static.republika.co.id/uploads/images/inpicture_slide/v-bts-v-merilis-album-layover-pada-jumat_230908104233-815.jpeg",
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 2800000,
+      "youtube_id": "eI0iTRS0Ha8",
+      "urlMp3": "https://wekaryatech.github.io/song/bts/slow.mp3"
+    },
+    {
+      "title": "Fri(end)s",
+      "release_date": "2024-03-15",
+      "album": "Single",
+      "artist": "V",
+      "image": "https://i.scdn.co/image/ab67616d0000b273377ee031d0a3da40db19ccf4",
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 3100000,
+      "youtube_id": "62peQdQv4uo",
+      "urlMp3": "https://wekaryatech.github.io/song/bts/fdaf.mp3"
     }
   ],
   "hide_adds_by_version": [],
