@@ -1,16 +1,5 @@
 {
-  "concert_list": [
-    {
-      "image": "https://media.stubhubstatic.com/stubhub-v2-catalog/d_vgg-defaultLogo.jpg/q_auto:low,f_auto,c_fill,g_auto,w_280,h_180/categories/42380/6397771",
-      "city": "Fukuoka",
-      "country": "Japan",
-      "date": "2025-08-30",
-      "time": "17:30",
-      "enable_website": true,
-      "website": "https://www.viagogo.com/Concert-Tickets/Pop-Music/Twice-Tickets/E-158655643?quantity=1",
-      "place": "Mizuho, Paypay Dome"
-    }
-  ],
+  "concert_list": [],
   "song_list": [
     {
       "title": "Seven (feat. Latto)",
@@ -755,6 +744,6 @@
       "urlMp3": "https://wekaryatech.github.io/song/bts/rope.mp3"
     }
   ],
-  "hide_adds_by_version": [],
+  "hide_adds_by_version": [1],
   "promotion_count": 2
 }
