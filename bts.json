@@ -1017,6 +1017,33 @@
       "popularity": 2200000,
       "youtube_id": "NrfikKxF4Ps",
       "urlMp3": "https://wekaryatech.github.io/song/bts/comafa.mp3"
+    },
+    {
+      "title": "Daechwita",
+      "release_date": "2020-05-22",
+      "album": "D-2",
+      "artist": "Suga",
+      "image": "https://cdn.antaranews.com/cache/1200x800/2020/06/04/agusd.jpg",
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 15000000,
+      "youtube_id": "qGjAWJ2zWWI",
+      "urlMp3": "https://wekaryatech.github.io/song/bts/fasva.mp3"
+    },
+
+    {
+      "title": "Haegeum",
+      "release_date": "2023-04-21",
+      "album": "D‑DAY",
+      "artist": "Suga",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/SUGA_Agust_D_Tour_promotional_poster.jpg",
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 4700000,
+      "youtube_id": "iy9qZR_OGa0",
+      "urlMp3": "https://wekaryatech.github.io/song/bts/Dday.mp3"
     }
   ],
   "hide_adds_by_version": [],
