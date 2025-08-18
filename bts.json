@@ -873,6 +873,58 @@
       "popularity": 3100000,
       "youtube_id": "62peQdQv4uo",
       "urlMp3": "https://wekaryatech.github.io/song/bts/fdaf.mp3"
+    },
+    {
+      "title": "Face-off",
+      "release_date": "2023-03-24",
+      "album": "FACE",
+      "artist": "Jimin",
+      "image": "https://ibighit.com/bts/images/bts/discography/jimin/face/photos/hardware/e8d19f0fb991cab38cb402b9c6d6e712.jpg",
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 364000,
+      "youtube_id": "TLT_MqzRHfY",
+      "urlMp3": "https://wekaryatech.github.io/song/bts/faceo.mp3"
+    },
+    {
+      "title": "Like Crazy",
+      "release_date": "2023-03-24",
+      "album": "FACE",
+      "artist": "Jimin",
+      "image": "https://ibighit.com/bts/images/bts/discography/jimin/face/photos/hardware/e8d19f0fb991cab38cb402b9c6d6e712.jpg",
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 4400000,
+      "youtube_id": "nOI67IDlNMQ",
+      "urlMp3": "https://wekaryatech.github.io/song/bts/likecS.mp3"
+    },
+    {
+      "title": "Set Me Free Pt.2",
+      "release_date": "2023-03-24",
+      "album": "FACE",
+      "artist": "Jimin",
+      "image": "https://ibighit.com/bts/images/bts/discography/jimin/face/photos/hardware/e8d19f0fb991cab38cb402b9c6d6e712.jpg",
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 5300000,
+      "youtube_id": "UaywgAqcLxI",
+      "urlMp3": "https://wekaryatech.github.io/song/bts/semef.mp3"
+    },
+    {
+      "title": "Who",
+      "release_date": "2023-03-24",
+      "album": "FACE",
+      "artist": "Jimin",
+      "image": "https://ibighit.com/bts/images/bts/discography/jimin/face/photos/hardware/e8d19f0fb991cab38cb402b9c6d6e712.jpg",
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 2800000,
+      "youtube_id": "Av9DvtlJ9_M",
+      "urlMp3": "https://wekaryatech.github.io/song/bts/whos.mp3"
     }
   ],
   "hide_adds_by_version": [],
