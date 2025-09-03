@@ -3219,6 +3219,6 @@
       "urlMp3": "https://wekaryatech.github.io/song/bts/Dday.mp3"
     }
   ],
-  "hide_adds_by_version": [],
+  "hide_adds_by_version": [1,2,3,4,5,6,7,8,9],
   "promotion_count": 2
 }
