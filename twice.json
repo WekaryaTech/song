@@ -1,7 +1,5 @@
 {
-  "concert_list": [
-
-  ],
+  "concert_list": [],
   "song_list": [
     {
       "title": "Four",
@@ -6485,20 +6483,61 @@
       "youtube_id": "qYmIZG8CosQ",
       "urlMp3": "https://wekaryatech.github.io/song/twice/warning.mp3"
     },
-     {
+    {
       "title": "Enemy",
       "release_date": "2025-07-29",
-      "album": "-",
+      "album": "MISAMO",
       "artist": "TWICE",
       "image": "https://i.ytimg.com/vi/_O2_J6qvVMY/sddefault.jpg",
-      "latin_lyric":null,
+      "latin_lyric": null,
       "korean_lyric": null,
       "english_lyric": null,
       "popularity": 28000,
       "youtube_id": "xWldBK4d2Ps",
       "urlMp3": "https://wekaryatech.github.io/song/twice/enemy.mp3"
+    },
+    {
+      "title": "ME+YOU",
+      "release_date": "2025-10-29",
+      "album": "MISAMO",
+      "artist": "TWICE",
+      "image": "https://i.ytimg.com/vi/zqorlX_5oHQ/maxresdefault.jpg",
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 28000,
+      "youtube_id": "zqorlX_5oHQ",
+      "urlMp3": "https://wekaryatech.github.io/song/twice/meyou.mp3"
+    },
+    {
+      "title": "Hmm",
+      "release_date": "2026-01-29",
+      "album": "MISAMO",
+      "artist": "TWICE",
+      "image": "https://i.ytimg.com/vi/jg4h2_opYv0/maxresdefault.jpg",
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 28000,
+      "youtube_id": "jg4h2_opYv0",
+      "urlMp3": "https://wekaryatech.github.io/song/twice/hmm.mp3"
+    },
+    {
+      "title": "Confetti",
+      "release_date": "2026-02-04",
+      "album": "MISAMO",
+      "artist": "TWICE",
+      "image": "https://i.ytimg.com/vi/gOjG-70-D5o/maxresdefault.jpg",
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 28000,
+      "youtube_id": "gOjG-70-D5o",
+      "urlMp3": "https://wekaryatech.github.io/song/twice/cofeti.mp3"
     }
   ],
-  "hide_adds_by_version": [4],
+  "hide_adds_by_version": [
+    4
+  ],
   "promotion_count": 2
 }
