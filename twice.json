@@ -1,5 +1,7 @@
 {
   "concert_list": [],
+  "hide_adds_by_version": [],
+  "promotion_count": 2,
   "song_list": [
     {
       "title": "Four",
