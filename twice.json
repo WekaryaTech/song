@@ -6691,6 +6691,6 @@
       "urlMp3": "https://wekaryatech.github.io/song/twice/cofeti.mp3"
     }
   ],
-  "hide_adds_by_version": [],
+  "hide_adds_by_version": [1,2,3,4],
   "promotion_count": 2
 }
